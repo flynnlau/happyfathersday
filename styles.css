@@ -1,0 +1,160 @@
+body {
+	position: absolute;
+	color: blue;
+	background-image: url('forhppostcard1.jpg');
+	background-color: #99004d;
+	background-size: 2000px;
+	text-shadow: 1px 3px 1px white;
+	border: 6px solid black;
+	width: 300px;
+	left: 300px;
+	top: 100px;
+	font-size: 90px;
+	font-family: Helevetica;
+	text-align: right;
+}
+
+img{
+	position: fixed;
+	top: 0px;
+	right:0px;
+	width: 1200px;
+	opacity: .6;
+	border-radius: 100px 400px 100px 100px;
+	z-index: -1;
+}
+
+.poem2 h1 {
+color: mediumblue;
+padding-top: 1200px;
+}
+
+.two {
+	border: none;
+}
+.soap {
+	width: 600px;
+	top: 0px;
+	left: 500px;
+	opacity: .7;
+	border-radius: 400px;
+	float: right;
+}
+.soap2 {
+	width:1300px;
+	bottom: 0px;
+	top: auto;
+}
+.soapstudy {
+	border-radius: 600px;
+	right: 0px;
+	z-index: -1;
+	width: 300px;
+	float: right;
+	opacity: .8;
+}
+
+.clearfix:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.site-header {
+	background: #CF5CbD;
+	color: #FFF;
+	padding: 10px 5%;
+	box-shadow: 0 1px 3px orange;
+}
+
+.site-header h1 {
+	margin: 0;
+	padding: 10px;
+	text-align: center;
+}
+
+.main-nav ul {
+	list-style-type: none;
+	text-align: center;
+	color: #FFF;
+	padding: 0;
+	margin: 0 0;
+}
+
+.main-nav ul li {
+	display: inline;
+}
+
+.main-nav ul li a {
+	text-decoration: none;
+	color: #FFF;
+}
+
+.about {
+	text-align: center;
+	background: #efdefd;
+	padding: 60px;
+}
+
+.about h2 {
+	margin-top: 0;
+}
+
+.fragment {
+	color: mediumblue;
+	font-size: 40px;
+}
+
+.main-col {
+	float: left;
+	width: 70%;
+}
+
+.side-col {
+	float: right;
+	width: 25%;
+	padding: 5% 20px;
+}
+
+.column-wrapper {  
+	width: 90%;
+	margin: 0 auto;
+}
+
+.main-footer {
+	padding: 40px 5%;
+	background: #abcabc;
+}
+
+.main-nav li + li{
+
+margin-left: 10px;
+}
+
+.poem-footer {
+	display: inline;
+	
+}
+
+.poem-footer ul {
+	list-style-type: none;
+	text-align: right;
+}
+
+video {
+	width: 1200px;
+}
+
+.space {
+	height: 1200px
+	;
+}
+
+.wide {
+	width: 2000px;
+	boder: 6px solid orange;
+	opacity: 1;
+	position: absolute;
+	left: 0px;
+	top: 10000px;
+}
