@@ -2,7 +2,7 @@ body {
 	position: absolute;
 	color: blue;
 	background-image: url('MakingDinner.jpg');
-	background-color: #99004d;
+	<! background-color: #99004d; >
 	background-size: 2000px;
 	border: 6px solid black;
 	width: 300px;
