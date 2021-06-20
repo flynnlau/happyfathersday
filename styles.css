@@ -182,3 +182,13 @@ video {
 .love {
 	color: #00acab;
 }
+a:visited {
+color:  darkblue;
+}
+
+a:active {
+	color: blue;
+}
+
+a:hover {
+	font-size:  140%;
