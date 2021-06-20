@@ -195,5 +195,10 @@ a:hover {
 	top:  1000px;
 }
 #Margaret2 {
+	width: 1000px;
+	boder: 6px solid orange;
+	opacity: 1;
+	position: absolute;
+	left: 0px;
 	top: 400px;
 }
